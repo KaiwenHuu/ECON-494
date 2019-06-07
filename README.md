@@ -1,4 +1,4 @@
-# ECON-494
+# Seminar in Applied International Economics
 
 This is my undergraduate research project for "Seminar in Applied International Economics". I explored the relationship between global sea-level and stock performance/characteristics.
 
