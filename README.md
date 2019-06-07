@@ -1,6 +1,6 @@
 # ECON-494
 
-This is my undergraduate research project in "Seminar in Applied International Economics". I explored the relationship between global sea-level and stock performance/characteristics.
+This is my undergraduate research project for "Seminar in Applied International Economics". I explored the relationship between global sea-level and stock performance/characteristics.
 
 Link to datasets:
 
