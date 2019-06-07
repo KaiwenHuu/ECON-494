@@ -10,7 +10,7 @@ https://data.worldbank.org/
 
 https://catalog.data.gov/organization/epa-gov
 
-Some other useful Economics and Finance I didn't use:
+Useful data for Economics and Finance research I didn't use:
 
 https://fred.stlouisfed.org/
 
