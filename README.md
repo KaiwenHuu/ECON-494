@@ -4,7 +4,7 @@ This is my undergraduate research project for "Seminar in Applied International 
 
 Link to datasets:
 
-https://wrds-web.wharton.upenn.edu/wrds/index.cfm? (CRSP and Compustat)
+https://wrds-web.wharton.upenn.edu (CRSP and Compustat)
 
 https://data.worldbank.org/
 
